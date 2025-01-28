@@ -1,0 +1,96 @@
+{
+  "navbar": ["Features", "Plans", "Testimonials", "FAQ"],
+  "hero": {
+    "label": "Small Business Owners",
+    "titleStart": "Grow",
+    "titleEnd": "Your Local Business Effortlessly with Local Connect",
+    "subtitle": "All-in-one platform to connect with local clients, manage relationships, and grow your business smarter.",
+    "button1": "Get Started for Free",
+    "button2": "Request a Demo"
+  },
+  "cards": [
+    {
+      "title": "+1000",
+      "subtitle": "Customer Adoption",
+      "description": "Trusted by over 1,000 small businesses worldwide, LocalConnect is helping entrepreneurs thrive in their local markets. Join our growing community and experience the difference."
+    },
+    {
+      "title": "97%",
+      "subtitle": "User Satisfaction",
+      "description": "With a 97% customer satisfaction rate, users love how LocalConnect simplifies their daily operations. Our tools are designed to save time and maximize results."
+    },
+    {
+      "title": "99.9%",
+      "subtitle": "Platform Reliability",
+      "description": "Enjoy 99.9% uptime, ensuring your business is always connected and running smoothly. With over 10,000 monthly bookings processed, reliability is our promise."
+    },
+    {
+      "title": "+10 Hours",
+      "subtitle": "Efficiency Gains",
+      "description": "Save up to 10 hours a week managing appointments and client communications. LocalConnect lets you focus on growing your business, not managing busywork."
+    },
+    {
+      "title": "Why Choose LocalConnect?",
+      "description": "Save hours managing client relationships. Increase local visibility and customer retention. Simplify scheduling and communication. Make data-driven decisions with ease.",
+      "button": "Get Started for Free"
+    }
+  ],
+  "textImage": {
+    "titleStart": "Everything You Need to",
+    "titleEnd": "Succeed Locally",
+    "features": [
+      {
+        "bold": "Local Lead Generation:",
+        "regular": "Find and attract customers nearby."
+      },
+      {
+        "bold": "CRM Built for Small Businesses:",
+        "regular": "Organize client details and interactions in one place."
+      },
+      {
+        "bold": "Appointment Scheduling:",
+        "regular": "Let clients book you online with ease."
+      },
+      {
+        "bold": "Automated Follow-ups:",
+        "regular": "Keep customers engaged without extra effort."
+      },
+      {
+        "bold": "Analytics Dashboard:",
+        "regular": "See what's working and optimize your strategy."
+      }
+    ],
+    "image": "example (2).jpg"
+  },
+  "pricing": [
+    {
+      "title": "Basic",
+      "price": "$10/month",
+      "subtitle": "Perfect for individuals starting out",
+      "features": ["Feature 1", "Feature 2"]
+    },
+    {
+      "title": "Standard",
+      "price": "$20/month",
+      "subtitle": "Ideal for growing businesses",
+      "features": ["Feature 1", "Feature 2", "Feature 3"]
+    },
+    {
+      "title": "Premium",
+      "price": "$30/month",
+      "subtitle": "For established businesses with advanced needs",
+      "features": ["Feature 1", "Feature 2", "Feature 3", "Feature 4"]
+    }
+  ],
+  "testimonials": [
+    { "name": "John Doe", "feedback": "This service is amazing!" },
+    { "name": "Jane Smith", "feedback": "Highly recommended!" }
+  ],
+  "faq": [
+    { "question": "What is this service?", "answer": "This is a sample service." },
+    { "question": "How do I start?", "answer": "Sign up and get started." }
+  ],
+  "footer": {
+    "copyright": "© 2025 Your Company"
+  }
+}
