@@ -9,8 +9,8 @@ const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
-    <nav className="bg-white p-10 sticky top-0 z-50">
-        <div className="mx-4 md:mx-8 lg:mx-16">
+    <nav className="bg-white py-10 sticky top-0 z-50">
+        <div className="px-4 md:px-8 lg:px-32">
             <div className="container mx-auto flex justify-between items-center">
                 {/* Logo - updated src */}
                 <img src={logo} alt="logo" className="w-32 md:w-40" />

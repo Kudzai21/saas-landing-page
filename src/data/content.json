@@ -65,21 +65,21 @@
   "pricing": [
     {
       "title": "Basic",
-      "price": "$10/month",
-      "subtitle": "Perfect for individuals starting out",
-      "features": ["Feature 1", "Feature 2"]
+      "price": "$180/month",
+      "subtitle": "Make your plans easy by subscribing for free get it now",
+      "features": ["Archieve chat", "Manage Service", "Unlimited Sticker"]
     },
     {
       "title": "Standard",
-      "price": "$20/month",
-      "subtitle": "Ideal for growing businesses",
-      "features": ["Feature 1", "Feature 2", "Feature 3"]
+      "price": "$250/month",
+      "subtitle": "Make your plans easy by subscribing for free get it now",
+      "features": ["Archieve Chat", "Manage Service", "Unlimited Sticker", "Unlimited Sticker", "Chat Support", "Premium Subscription", "Unlock All Features"]
     },
     {
       "title": "Premium",
-      "price": "$30/month",
+      "price": "$400/month",
       "subtitle": "For established businesses with advanced needs",
-      "features": ["Feature 1", "Feature 2", "Feature 3", "Feature 4"]
+      "features": ["Archieve Chat", "Manage Service", "Unlimited Sticker", "Unlimited Sticker", "Chat Support", "Premium Subscription", "Unlock All Features"]
     }
   ],
   "testimonials": [
