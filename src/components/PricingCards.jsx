@@ -46,7 +46,7 @@ const PricingCards = () => {
                 <textarea
                   value={plan.subtitle}
                   onChange={(e) => handleTextChange(index, "subtitle", e.target.value)}
-                  className="mt-2 text-lg lg:text-xl bg-transparent focus:outline-none resize-none w-full"
+                  className="mt-2 text-lg lg:text-xl bg-transparent focus:outline-none resize-none w-full overflow-hidden"
                 />
                 <ul className="mt-6 text-left space-y-2">
                   {plan.features.map((feature, featureIndex) => (

@@ -65,26 +65,64 @@
   "pricing": [
     {
       "title": "Basic",
-      "price": "$180/month",
+      "price": "$800/month",
       "subtitle": "Make your plans easy by subscribing for free get it now",
       "features": ["Archieve chat", "Manage Service", "Unlimited Sticker"]
     },
     {
       "title": "Standard",
-      "price": "$250/month",
+      "price": "$1200/month",
       "subtitle": "Make your plans easy by subscribing for free get it now",
       "features": ["Archieve Chat", "Manage Service", "Unlimited Sticker", "Unlimited Sticker", "Chat Support", "Premium Subscription", "Unlock All Features"]
     },
     {
       "title": "Premium",
-      "price": "$400/month",
+      "price": "$1800/month",
       "subtitle": "For established businesses with advanced needs",
       "features": ["Archieve Chat", "Manage Service", "Unlimited Sticker", "Unlimited Sticker", "Chat Support", "Premium Subscription", "Unlock All Features"]
     }
   ],
-  "testimonials": [
-    { "name": "John Doe", "feedback": "This service is amazing!" },
-    { "name": "Jane Smith", "feedback": "Highly recommended!" }
+  "testimonialsData": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "image": "john",
+      "designation": "CEO at Company",
+      "rating": 5,
+      "feedback": "This service has been amazing for our business. Highly recommend!"
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "image": "jane",
+      "designation": "Marketing Director",
+      "rating": 4.5,
+      "feedback": "A fantastic product that has helped us increase efficiency and progress."
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "image": "alice",
+      "designation": "Product Manager",
+      "rating": 4,
+      "feedback": "Really satisfied with the results, but there's room for improvement."
+    },
+    {
+      "id": 4,
+      "name": "Bob Brown",
+      "image": "bob",
+      "designation": "Operations Head",
+      "rating": 4.5,
+      "feedback": "The product exceeded my expectations and helped optimize my workflow."
+    },
+    {
+      "id": 5,
+      "name": "Eve Black",
+      "image": "eve",
+      "designation": "CTO at Tech Corp",
+      "rating": 5,
+      "feedback": "Great value for the price, although there are minor improvements to be made."
+    }
   ],
   "faq": [
     { "question": "What is this service?", "answer": "This is a sample service." },

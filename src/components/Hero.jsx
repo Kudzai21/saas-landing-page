@@ -9,7 +9,7 @@ const Hero = () => {
 
   return (
     <section className="min-h-screen flex items-center px-4 md:px-8 lg:px-32 -mt-20">
-        <div>
+        <div className="container mx-auto">
           <h2 className="inline-block text-secondary font-semibold px-4 md:px-5 py-2 md:py-3 mb-6 md:mb-10 rounded-full shadow-[0_0_7px_rgba(0,0,0,0.2)] text-sm md:text-base">
             <HiOutlineBriefcase className="inline-block text-xl mr-2 mb-0.5" /> {hero.label}
           </h2>
