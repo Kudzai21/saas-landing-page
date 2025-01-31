@@ -13,16 +13,16 @@ const PricingCards = () => {
   };
 
   return (
-    <section className="py-16 px-4 md:px-8 lg:px-32">
+    <section id="plans" className="py-16 px-4 md:px-8 lg:px-32">
       <div className="container mx-auto">
-        <div className="lg:mb-28">
-          <h2 className="text-3xl md:text-5xl lg:text-6xl mb-6 md:mb-10 max-w-2xl">
+        <div>
+          <h2 className="text-2xl md:text-5xl lg:text-6xl mb-6 md:mb-10 max-w-2xl">
             Simple Pricing,
-            <IoPricetagOutline className="inline bg-orange-700 text-white text-3xl lg:text-6xl rounded-lg lg:rounded-2xl mb-1 lg:mb-4 p-1 lg:p-3" />
+            <IoPricetagOutline className="inline bg-accentBlue text-3xl lg:text-6xl rounded-lg lg:rounded-2xl mb-1 lg:mb-4 p-1 lg:p-3" />
             <br/> No Surprises
           </h2>
         </div>
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12 items-stretch">
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-12 items-stretch pt-10">
           {pricing.map((plan, index) => (
             <div
               key={index}

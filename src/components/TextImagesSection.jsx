@@ -14,7 +14,7 @@ function TextImage() {
             <h1 className="text-3xl md:text-5xl lg:text-5xl mb-6 md:mb-10">
               {titleStart}
               <br />
-              <HiOutlineBadgeCheck className="inline bg-purple-700 text-white text-3xl lg:text-6xl rounded-lg lg:rounded-2xl mb-1 lg:mb-4 p-1 lg:p-3"/> {titleEnd}
+              <HiOutlineBadgeCheck className="inline bg-accentPurple text-primary text-3xl lg:text-6xl rounded-lg lg:rounded-2xl mb-1 lg:mb-4 p-1 lg:p-3"/> {titleEnd}
             </h1>
             <div className="space-y-3 md:space-y-4">
               {features.map((feature, index) => (

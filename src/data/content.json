@@ -65,21 +65,21 @@
   "pricing": [
     {
       "title": "Basic",
-      "price": "$800/month",
-      "subtitle": "Make your plans easy by subscribing for free get it now",
-      "features": ["Archieve chat", "Manage Service", "Unlimited Sticker"]
+      "price": "Free",
+      "subtitle": "For small businesses just getting started.",
+      "features": ["Limited lead generation", "CRM for 50 clients", "Manual scheduling", "Email reminders", "Basic analytics", "Email support", "Mobile access"]
     },
     {
       "title": "Standard",
       "price": "$1200/month",
       "subtitle": "Make your plans easy by subscribing for free get it now",
-      "features": ["Archieve Chat", "Manage Service", "Unlimited Sticker", "Unlimited Sticker", "Chat Support", "Premium Subscription", "Unlock All Features"]
+      "features": ["Unlimited CRM", "Auto scheduling & reminders", "AI lead matching", "Email & SMS follow-ups", "Advanced analytics", "Calendar & social integrations", "Priority support"]
     },
     {
       "title": "Premium",
       "price": "$1800/month",
       "subtitle": "For established businesses with advanced needs",
-      "features": ["Archieve Chat", "Manage Service", "Unlimited Sticker", "Unlimited Sticker", "Chat Support", "Premium Subscription", "Unlock All Features"]
+      "features": ["Archive Chat", "Manage Service", "Unlimited Sticker", "Chat Support", "Premium Subscription", "Unlock All Features"]
     }
   ],
   "testimonialsData": [
@@ -125,10 +125,38 @@
     }
   ],
   "faq": [
-    { "question": "What is this service?", "answer": "This is a sample service." },
-    { "question": "How do I start?", "answer": "Sign up and get started." }
+    {
+      "question": "What is LocalConnect, and how does it help my business?",
+      "answer": "LocalConnect is an all-in-one platform designed to help small businesses and freelancers grow their local customer base. We offer tools for lead generation, CRM, appointment scheduling, automated follow-ups, and analytics to help you manage and expand your business effortlessly."
+    },
+    {
+      "question": "Is LocalConnect suitable for my type of business?",
+      "answer": "Yes! Whether you run a salon, tutoring service, home repair business, or any local service, LocalConnect is built to help you attract and retain clients. Our flexible tools work for various industries that rely on local customers."
+    },
+    {
+      "question": "How does the lead generation feature work?",
+      "answer": "Our system connects you with potential customers in your area who are looking for your services. Through targeted local marketing and smart recommendations, we help you find quality leads and turn them into loyal clients."
+    },
+    {
+      "question": "Do I need technical skills to use LocalConnect?",
+      "answer": "Not at all! LocalConnect is designed with simplicity in mind, so anyone can use it. Our intuitive interface and step-by-step guides make it easy to manage your business online, even if you’re not tech-savvy."
+    },
+    {
+      "question": "What happens if I want to cancel my subscription?",
+      "answer": "You can cancel your subscription anytime with no hidden fees. Your data will be stored securely for a limited period in case you decide to return. We also offer a free plan if you’d like to continue with basic features."
+    },
+    {
+      "question": "Is my business data safe with LocalConnect?",
+      "answer": "Absolutely! We use advanced encryption and security measures to keep your data safe. We never share or sell your information, ensuring that your business and client data remain private and secure."
+    }
   ],
   "footer": {
-    "copyright": "© 2025 Your Company"
+    "copyright": "Copyright Design © Kenji 2024. All rights reserved.",
+    "socialMedia": {
+      "facebook": "https://facebook.com",
+      "twitter": "https://twitter.com",
+      "instagram": "https://instagram.com",
+      "linkedin": "https://linkedin.com"
+    }
   }
 }

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { FaStar, FaStarHalfAlt } from "react-icons/fa";
-import { IoPricetagOutline } from "react-icons/io5";
+import { GrGrow } from "react-icons/gr";
 import example2 from "../assets/john.jpg"; // Importing one image for reference
 import example3 from "../assets/jane.jpg"; // Another image for reference
 import example4 from "../assets/alice.jpg";
@@ -68,14 +68,14 @@ const Testimonials = () => {
   };
 
   return (
-    <section className="py-12 md:py-20 px-4 md:px-8 lg:px-32">
+    <section id="testimonials" className="py-12 md:py-20 px-4 md:px-8 lg:px-32">
       <div className="container mx-auto">
-      <div>
+        <div>
           <h2 className="text-2xl md:text-5xl lg:text-6xl mb-6 md:mb-10 max-w-4xl">
             See How Businesses Are
             <br/>
             Growing
-            <IoPricetagOutline className="inline bg-green-700 text-white text-3xl lg:text-6xl rounded-lg lg:rounded-2xl mb-1 lg:mb-4 p-1 mx-2 lg:p-3" />
+            <GrGrow className="inline bg-accentGreen text-primary text-3xl lg:text-6xl rounded-lg lg:rounded-2xl mb-1 lg:mb-4 p-1 mx-2 lg:p-3" />
             with LocalConnect
           </h2>
         </div>

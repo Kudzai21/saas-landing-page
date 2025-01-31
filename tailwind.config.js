@@ -16,6 +16,8 @@ export default {
               accentBlue: '#E7EBFF',
               accentPurple: '#FFE3FF',
               accentOrange: '#FFFAE7',
+              accentGreen: '#C2FFC8',
+              accentRed: '#FFD5D6',
           },
       },
   },
