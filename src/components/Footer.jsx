@@ -38,7 +38,7 @@ const Footer = () => {
         </div>
 
         {/* Bottom Line */}
-        <div className="w-full border-t border-gray-600 pt-4">
+        <div className="w-full border-t border-gray-800 pt-4">
           <p className="text-sm">{footer.copyright}</p>
         </div>
       </div>
