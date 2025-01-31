@@ -1,6 +1,6 @@
 import React from "react";
 import content from "../data/content.json";
-import example2 from "../assets/example (2).jpg";
+import images from "../assets/img.jpg";
 import { HiOutlineBadgeCheck } from "react-icons/hi";
 
 function TextImage() {
@@ -27,7 +27,7 @@ function TextImage() {
           </div>
           <div className="mt-8 lg:mt-0">
             <img 
-              src={example2} 
+              src={images} 
               alt="Features illustration" 
               className="w-full rounded-lg shadow-lg"
             />

@@ -60,7 +60,7 @@
         "regular": "See what's working and optimize your strategy."
       }
     ],
-    "image": "example (2).jpg"
+    "image": "img.jpg"
   },
   "pricing": [
     {
@@ -79,7 +79,7 @@
       "title": "Premium",
       "price": "$1800/month",
       "subtitle": "For established businesses with advanced needs",
-      "features": ["Archive Chat", "Manage Service", "Unlimited Sticker", "Chat Support", "Premium Subscription", "Unlock All Features"]
+      "features": ["All Pro features + extras", "AI customer insights", "Multi-channel marketing", "White-label branding", "Sales funnel tracking", "API integrations", "Dedicated manager"]
     }
   ],
   "testimonialsData": [
