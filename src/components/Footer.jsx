@@ -1,9 +1,9 @@
 import React from "react";
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from "react-icons/fa";
-import footerData from "../data/content.json"; // Import JSON data
+import footerData from "../data/content.json";
 
 const Footer = () => {
-  const { footer } = footerData; // Destructure footer data from JSON
+  const { footer } = footerData;
 
   return (
     <footer className="bg-background py-12 md:py-20 px-4 md:px-8 lg:px-32">
@@ -37,7 +37,6 @@ const Footer = () => {
           </a>
         </div>
 
-        {/* Bottom Line */}
         <div className="w-full border-t border-gray-800 pt-4">
           <p className="text-sm">{footer.copyright}</p>
         </div>

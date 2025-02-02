@@ -2,17 +2,16 @@ import React, { useState } from "react";
 import content from "../data/content.json";
 import { HiOutlineBars3, HiXMark } from 'react-icons/hi2';
 import logo from '../assets/logo.png';
-import { Link } from 'react-scroll'; // Importing Link for smooth scrolling
+import { Link } from 'react-scroll';
 
 const Navbar = () => {
-  const { navbar } = content; // Extract navbar links from JSON
+  const { navbar } = content;
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
   return (
     <nav className="bg-white py-10 sticky top-0 z-50">
       <div className="px-4 md:px-8 lg:px-32">
         <div className="container mx-auto flex justify-between items-center">
-          {/* Logo */}
           <img src={logo} alt="logo" className="w-32 md:w-40" />
           
           {/* Desktop Navbar Links */}

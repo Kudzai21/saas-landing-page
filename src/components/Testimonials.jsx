@@ -1,12 +1,12 @@
 import React, { useState, useEffect } from "react";
 import { FaStar, FaStarHalfAlt } from "react-icons/fa";
 import { GrGrow } from "react-icons/gr";
-import example2 from "../assets/john.jpg"; // Importing one image for reference
-import example3 from "../assets/jane.jpg"; // Another image for reference
+import example2 from "../assets/john.jpg";
+import example3 from "../assets/jane.jpg";
 import example4 from "../assets/alice.jpg";
-import example5 from "../assets/bob.jpg"; // Importing one image for reference
-import example6 from "../assets/eve.jpg"; // Another image for reference
-import data from "../data/content.json"; // Import the entire JSON file
+import example5 from "../assets/bob.jpg";
+import example6 from "../assets/eve.jpg";
+import data from "../data/content.json";
 
 // Importing all images used in the testimonials
 const images = {

@@ -30,14 +30,14 @@ function CardsSection() {
             <p className="text-sm md:text-base mb-4">{cards[2].description}</p>
           </div>
 
-          {/* Fourth Card - Digital Marketing (3/4 width) */}
+          {/* Fourth Card */}
           <div className="lg:col-span-2 bg-background p-4 md:p-5 lg:p-10">
             <h3 className="text-3xl md:text-6xl font-semibold mb-10">{cards[3].title}</h3>
             <p className="text-xl md:text-xl font-medium mb-4">{cards[3].subtitle}</p>
             <p className="text-sm md:text-base mb-4">{cards[3].description}</p>
           </div>
 
-          {/* Fifth Card - Why Choose LocalConnect (1/4 width) */}
+          {/* Fifth Card */}
           <div className="bg-white md:p-5 lg:p-10">
             <h3 className="text-3xl md:text-5xl font-medium mb-7">{cards[4].title}</h3>
             <p className="text-sm md:text-base mb-4">{cards[4].description}</p>

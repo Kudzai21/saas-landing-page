@@ -1,4 +1,3 @@
-// LogoCarousel.jsx
 import React from "react";
 import content from "../data/content.json";
 import logo1 from '../assets/logo1.png';

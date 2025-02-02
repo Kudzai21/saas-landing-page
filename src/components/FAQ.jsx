@@ -1,7 +1,7 @@
 import React, { useState } from "react";
-import { FiPlus, FiMinus } from "react-icons/fi"; // Import icons from React Icons
+import { FiPlus, FiMinus } from "react-icons/fi";
 import { RiQuestionLine } from "react-icons/ri";
-import faqData from "../data/content.json"; // Import JSON data
+import faqData from "../data/content.json";
 
 const FAQ = () => {
   const { faq } = faqData; // Extract FAQ data from JSON
