@@ -85,7 +85,7 @@
   "testimonialsData": [
     {
       "id": 1,
-      "name": "John Doe",
+      "name": "Tatenda Walter",
       "image": "john",
       "designation": "CEO at Company",
       "rating": 5,
@@ -93,7 +93,7 @@
     },
     {
       "id": 2,
-      "name": "Jane Smith",
+      "name": "Sally Ben",
       "image": "jane",
       "designation": "Marketing Director",
       "rating": 4.5,
@@ -101,7 +101,7 @@
     },
     {
       "id": 3,
-      "name": "Alice Johnson",
+      "name": "Tatenda Jojo",
       "image": "alice",
       "designation": "Product Manager",
       "rating": 4,
@@ -109,7 +109,7 @@
     },
     {
       "id": 4,
-      "name": "Bob Brown",
+      "name": "Dee Nyasha",
       "image": "bob",
       "designation": "Operations Head",
       "rating": 4.5,
@@ -117,7 +117,7 @@
     },
     {
       "id": 5,
-      "name": "Eve Black",
+      "name": "Mufaro Lee",
       "image": "eve",
       "designation": "CTO at Tech Corp",
       "rating": 5,
