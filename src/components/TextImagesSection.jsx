@@ -28,7 +28,7 @@ function TextImage() {
           <div className="mt-8 lg:mt-0">
             <img 
               src={images} 
-              alt="Features illustration" 
+              alt="Image of a dashboard" 
               className="w-full rounded-lg shadow-lg"
             />
           </div>

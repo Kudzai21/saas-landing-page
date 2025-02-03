@@ -18,7 +18,7 @@ const images = {
 };
 
 const Testimonials = () => {
-  const testimonialsData = data.testimonialsData; // Access testimonialsData from the JSON file
+  const testimonialsData = data.testimonialsData;
   const [activeTestimonialIndex, setActiveTestimonialIndex] = useState(0);
   const [isMobile, setIsMobile] = useState(false); // State to determine if mobile view
 
@@ -94,7 +94,7 @@ const Testimonials = () => {
                 <div className="bg-gray-100 rounded-lg p-6 mx-auto">
                   {/* Dynamically use image from imported images */}
                   <img
-                    src={images[testimonial.image]} // Use the imported image based on the name
+                    src={images[testimonial.image]}
                     alt={testimonial.name}
                     className="w-24 h-24 rounded-full object-cover mx-auto mb-4"
                   />

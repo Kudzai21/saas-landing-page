@@ -23,7 +23,7 @@ const Hero = () => {
             <button className="bg-primary text-white px-10 py-3 rounded-full hover:opacity-90">
               {hero.button1}
             </button>
-            <button className="border border-primary px-10 py-3 rounded-full hover:text-gray-300 hover:border-gray-300">
+            <button className="border border-primary px-10 py-3 rounded-full hover:opacity-70 hover:border-opacity-70">
               {hero.button2}
             </button>
           </div>
