@@ -9,7 +9,7 @@ function CardsSection() {
   // Use useInView to detect when the section is in the viewport
   const { ref, inView } = useInView({
     triggerOnce: true, // Trigger animation only once
-    threshold: 0.3, // Trigger when 50% of the section is visible
+    threshold: 0.3, // Trigger when 30% of the section is visible
   });
 
   // Function to render animated numbers
